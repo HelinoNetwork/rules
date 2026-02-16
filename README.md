@@ -62,7 +62,7 @@ Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch die
 # §5 Verhalten & Chatregeln
 
 1. Der Umgang miteinander hat respektvoll zu erfolgen.
-2. Beleidigungen, Diskriminierung, Rassismus, Hassrede oder provozierendes Verhalten sind verboten.
+2. Beleidigungen, Diskriminierung, Rassismus, Nationalsozialismus Hassrede oder provozierendes Verhalten sind verboten.
 3. Drohungen sowie sexuelle Belästigung jeglicher Art sind untersagt.
 4. Politische oder religiöse Diskussionen und Inhalte sind nicht erlaubt.
 5. Spam, Flooding, dauerhaftes Schreiben in Großbuchstaben sowie künstliches Hervorheben von Nachrichten sind verboten.
