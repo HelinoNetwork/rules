@@ -3,7 +3,7 @@
 Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch dieses Regelwerk.
 
 
-# §0 Sanktionen & Gültigkeit
+# §1 Sanktionen & Gültigkeit
 
 1. Unwissenheit schützt nicht vor Strafe.
 2. Verstöße gegen das Regelwerk können je nach Schwere mit folgenden Maßnahmen geahndet werden:
@@ -18,7 +18,7 @@ Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch die
 
 
 
-# §1 Allgemeine Regeln
+# §2 Allgemeine Regeln
 
 1. Das Umgehen von Strafen (z.B. durch Zweitaccounts) führt zu einer Verlängerung oder Verschärfung der Sanktion bis hin zum permanenten Ausschluss.
 2. Den Anweisungen von Teammitgliedern ist Folge zu leisten.
@@ -28,7 +28,7 @@ Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch die
 
 
 
-# §2 Sprach- & Voice-Regeln
+# §3 Sprach- & Voice-Regeln
 
 1. Tonaufnahmen in Voice-Channels dürfen ausschließlich zur Beweisführung bei Regelverstößen erfolgen.
 2. Veröffentlichungen, Weitergabe oder Missbrauch solcher Aufnahmen sind ohne Zustimmung des Serverteams untersagt.
@@ -36,7 +36,7 @@ Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch die
 
 
 
-# §3 Minecraft – Allgemeines
+# §4 Minecraft – Allgemeines
 
 1. Das Betreten des Netzwerks mit mehr als drei Accounts insgesamt ist untersagt.
 2. Multiaccounts dürfen nicht zur Umgehung von Strafen, Cooldowns oder spielerischen Vorteilen genutzt werden.
@@ -50,7 +50,7 @@ Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch die
 
 
 
-# §4 Gameplay & Bauen
+# §5 Gameplay & Bauen
 
 1. Griefing, Scamming oder absichtliche Zerstörung fremder Bauwerke ohne Erlaubnis ist verboten.
 2. Farmen, Redstone-Anlagen oder Konstruktionen, die die Serverleistung beeinträchtigen, können vom Team eingeschränkt oder entfernt werden.
@@ -59,7 +59,7 @@ Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch die
 
 
 
-# §5 Verhalten & Chatregeln
+# §6 Verhalten & Chatregeln
 
 1. Der Umgang miteinander hat respektvoll zu erfolgen.
 2. Beleidigungen, Diskriminierung, Rassismus, Nationalsozialismus Hassrede oder provozierendes Verhalten sind verboten.
@@ -70,14 +70,14 @@ Mit dem Betreten des HELINO.ME Netzwerks akzeptiert jeder Nutzer automatisch die
 
 
 
-# §6 Refunds
+# §7 Refunds
 
 1. Rückerstattungen durch serverseitige Fehler sind nur mit eindeutigen Video-Beweisen möglich.
 2. Verluste durch Eigenverschulden, Drittsoftware oder externe Ausfälle werden nicht erstattet.
 
 
 
-# §7 Haftung
+# §8 Haftung
 
 1. Wir übernehmen keine Haftung für Schäden, die durch fehlerhafte Modifikationen oder Client-Software entstehen.
 2. Der Serverbetrieb kann jederzeit ohne Vorankündigung geändert, eingeschränkt oder eingestellt werden.
